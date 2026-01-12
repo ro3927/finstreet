@@ -87,9 +87,7 @@ pip install fyers-apiv3 pandas scikit-learn seaborn matplotlib
 
 ---
 
-## **Risk Disclaimer**
 
-*This strategy is for educational and research purposes. Quantitative trading involves significant risk of loss. The use of Bayesian models does not guarantee profit in live market environments.*
 
 **Author:** Rohan | IIT Guwahati
 **Event:** FinStreet Quant Challenge 2026
